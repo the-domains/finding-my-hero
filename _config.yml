@@ -1,14 +1,14 @@
-layout_spectrum: 0.6906551579013467
-typography_spectrum: 0.40823190845549107
+layout_spectrum: 0.16731448424980044
+typography_spectrum: 0.7805358893238008
 color:
-  brandStrength: 0.3674622343387455
-  lightness: 0.4550317598041147
-  saturation: 0.05922528705559671
-  rhythmicContrast: 0.8502618886996061
+  brandStrength: 0.05307690938934684
+  lightness: 0.06807804689742625
+  saturation: 0.3069369194563478
+  rhythmicContrast: 0.9764044210314751
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
 name: Finding My Hero
