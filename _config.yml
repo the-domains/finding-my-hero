@@ -12,3 +12,7 @@ color:
     - '#FFF6E5'
     - '#FF7F66'
 name: Finding My Hero
+navigation:
+  - name: 'About Us:'
+    id: 60695dd2-8b34-4585-b898-bc1be59d24f8
+    type: content
